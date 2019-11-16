@@ -1,0 +1,9 @@
+# pipreqs /home/gswyhq/textClassifier
+# sudo pip3 install -r requirements.txt -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
+
+numpy==1.14.3
+tensorflow==1.13.1
+Keras==2.2.4
+nltk==3.4
+pandas==0.24.2
+beautifulsoup4==4.8.1
